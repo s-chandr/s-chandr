@@ -2,7 +2,11 @@
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on anything that interests me.
 - 📫 Email me : chandrasayan15@gmail.com 
-
+- 🏠 I’m currently living at Indore, India <br/>
+- 👨‍💻 I’m currently a student at SGSITS, Indore, India <br/>
+- 🔭 I’m currently working on my pet projects.<br/>
+- ☕️ I’m coffeer. <br/>
+- ⚡ Bla bla bla...
 <!---
 s-chandr/s-chandr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
