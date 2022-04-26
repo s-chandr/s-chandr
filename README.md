@@ -1,4 +1,4 @@
-## Hey! I'm Sayan Chandra. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey! I'm Sayan Chandra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on anything that interests me.
 - 📫 Email me : chandrasayan15@gmail.com 
