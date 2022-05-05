@@ -5,7 +5,7 @@
 - 🏠 I’m currently living at Indore, India <br/>
 - 👨‍💻 I’m currently a student at SGSITS, Indore, India <br/>
 - 🔭 I’m currently working on my pet projects.<br/>
-- ☕️ I’m coffeer. <br/>
+- ☕️ Tea/Cofee ~ kuch bhi chlega. <br/>
 - ⚡ Bla bla bla...
 <!---
 s-chandr/s-chandr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
