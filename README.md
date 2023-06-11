@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on anything that interests me.
 - 📫 Email me : chandrasayan15@gmail.com 
 - 🏠 I’m currently living at Indore, India <br/>
-- 👨‍💻 I’m a final year student at SGSITS, Indore, India <br/>
+- 👨‍💻 CSE'23 SGSITS, Indore, India <br/>
 - 🔭 I’m currently working on my pet projects.<br/>
 - ☕️ Tea/Cofee ~ kuch bhi chlega🙂  <br/>
 - ⚡ I am a Quick Learner...
