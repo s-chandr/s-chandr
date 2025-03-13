@@ -1,10 +1,9 @@
 ## Hey! I'm Sayan Chandra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- 🌱 I’m currently learning Web Dev 
+- 🌱 I’m currently working as a Software Development Engineer at Optum Global Solutions.
 - 💞️ I’m looking to collaborate on anything that interests me.
 - 📫 Email me : chandrasayan15@gmail.com 
-- 🏠 I’m currently living at Indore, India <br/>
+- 🏠 Delhi NCR <-> Indore <br/>
 - 👨‍💻 CSE'23 SGSITS, Indore, India <br/>
-- 🔭 I’m currently working on my pet projects.<br/>
 - ☕️ Tea/Cofee ~ kuch bhi chlega🙂  <br/>
 - ⚡ I am a Quick Learner...
 <!---
